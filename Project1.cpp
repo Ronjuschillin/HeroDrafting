@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "gari kasta si wahh!\n";
+    std::cout << " TRY ";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
