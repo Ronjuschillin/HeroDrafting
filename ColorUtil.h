@@ -1,0 +1,1 @@
+void setColor(int color);
