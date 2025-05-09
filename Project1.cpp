@@ -9,6 +9,7 @@ int main()
     std::cout << " TRY ";
     std::cout << " TESTING";
     std::cout << " TESTING VERSION ";
+    std::cout << "testing";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
